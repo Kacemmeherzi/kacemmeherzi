@@ -70,7 +70,7 @@ I am proficient in leveraging various tools to enhance my development workflow
 ### 🚀 Currently Learning:
 - Exploring **Advanced DevOps** practices and **Kubernetes** for container orchestration to improve application deployment and management.
 - Building **CI/CD pipelines** with **GitLab** to streamline automated deployment processes and enhance development efficiency.
-- Diving deeper into **cloud technologies** and mastering **microservices architecture** to develop scalable and maintainable applications that meet the demands of modern users.
+- Diving deeper into **microservices architecture** with Spring boot and RabbitMQ
 
 ---
 ### 💖 My Source of Motivation
