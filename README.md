@@ -26,7 +26,7 @@ I'm a dedicated software engineering student based in **Tunis, Tunisia**. With a
 ### 📈 GitHub Stats
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=Kacemmeherzi&show_icons=true&theme=dark" alt="Kacem's GitHub Stats" style="width: 320px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacemmeherzi&layout=compact&theme=dark" alt="Top Languages" style="width: 290px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacemmeherzi&layout=compact&theme=dark" alt="Top Languages" style="width: 270px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacemmeherzi&theme=dark" alt="Current Streak" style="width: 320px;" />
 </div>
 
