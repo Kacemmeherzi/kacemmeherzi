@@ -73,6 +73,10 @@ I am proficient in leveraging various tools to enhance my development workflow
 - Diving deeper into **cloud technologies** and mastering **microservices architecture** to develop scalable and maintainable applications that meet the demands of modern users.
 
 ---
+### 💖 My Source of Motivation
+I want to give a special shoutout to my amazing girlfriend, **IBTCHIHEL**. Her support and encouragement have been invaluable in my journey as a software engineering student and developer. Whether it's through late-night coding sessions or motivating me to stay smoke-free, she inspires me to keep pushing my limits. Thank you for always believing in me!
+
+---
 
 ### 💡 Fun Facts:
 - I am passionate about writing **clean code** and following best practices in **software architecture** to ensure code quality and maintainability. I believe that good architecture leads to easier debugging and future enhancements.
