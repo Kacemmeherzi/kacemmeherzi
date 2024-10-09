@@ -1,4 +1,3 @@
-
 # 👋 Hello, I'm Mohamed Kacem Meherzi!
 
 <div style="text-align: center;">
@@ -70,4 +69,14 @@ I am proficient in leveraging various tools to enhance my development workflow
 
 ### 🚀 Currently Learning:
 - Exploring **Advanced DevOps** practices and **Kubernetes** for container orchestration to improve application deployment and management.
-- Building **CI/CD pipelines** with **GitLab** to streamline au
+- Building **CI/CD pipelines** with **GitLab** to streamline automated deployment processes and enhance development efficiency.
+- Diving deeper into **cloud technologies** and mastering **microservices architecture** to develop scalable and maintainable applications that meet the demands of modern users.
+
+---
+
+### 💡 Fun Facts:
+- I am passionate about writing **clean code** and following best practices in **software architecture** to ensure code quality and maintainability. I believe that good architecture leads to easier debugging and future enhancements.
+- I’ve been **smoke-free** for over 100 days, dedicating my time to self-improvement through coding, fitness, and learning new skills. This journey has taught me the importance of resilience and focus.
+- In my spare time, I enjoy playing video games and continuously working on personal development projects to expand my skill set. Gaming not only provides relaxation but also inspires creative problem-solving and strategic thinking.
+
+---
