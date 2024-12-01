@@ -1,86 +1,68 @@
-# 👋 Hello, I'm Mohamed Kacem Meherzi!
+# 👋 Hi, I'm Mohamed Kacem Meherzi!
 
-<div style="text-align: center;">
-    <h2>🎓 Final-Year Software Engineering Student | 💻 Full-Stack Developer</h2>
+<div align="center">
+  <h2>🎓 Final-Year Software Engineering Student | 💻 Full-Stack Developer</h2>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kacemmeherzi&color=blue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kacemmeherzi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-I'm a dedicated software engineering student based in **Tunis, Tunisia**. With a passion for technology and a commitment to lifelong learning, I specialize in creating efficient and scalable applications across multiple domains, including **front-end**, **back-end**, and **hybrid mobile development**. Currently, I’m diving deeper into **DevOps** practices, focusing on cloud infrastructure, automation, and best coding practices to deliver robust software solutions that meet user needs.
+I'm a passionate software engineering student from **Tunis, Tunisia**, focusing on **front-end**, **back-end**, and **hybrid mobile development**. Currently exploring **DevOps** practices to deliver scalable and robust software solutions.
 
 ---
 
-### 🔨 Currently Working On:
-- Developing a **weather app** using **Ionic** and **WeatherAPI** within **RapidAPI**. This project involves integrating real-time weather data and crafting an intuitive user interface to display weather forecasts and alerts. You can check out the repository [here](https://github.com/Kacemmeherzi/WeatherApp).
+### 🔨 Current Project
+- **Weather App**: Real-time weather forecasts using **Ionic** and **WeatherAPI** ([Repository](https://github.com/Kacemmeherzi/WeatherApp))
 
 ---
 
-### 📫 Get in Touch:
-- **Email:** [kacemmeherzi52@gmail.com](mailto:kacemmeherzi52@gmail.com)
-- **LinkedIn:** [Kacem Meherzi](https://www.linkedin.com/in/kacem-meherzi-305217187/)
+### 📫 Connect with Me
+- **Email**: [kacemmeherzi52@gmail.com](mailto:kacemmeherzi52@gmail.com)
+- **LinkedIn**: [Kacem Meherzi](https://www.linkedin.com/in/kacem-meherzi-305217187/)
+
 ---
 
 ### 📈 GitHub Stats
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kacemmeherzi&show_icons=true&theme=dark" alt="Kacem's GitHub Stats" style="width: 300px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacemmeherzi&layout=compact&theme=dark" alt="Top Languages" style="width: 230px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacemmeherzi&theme=dark" alt="Current Streak" style="width: 300px;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kacemmeherzi&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacemmeherzi&layout=compact&theme=dark" alt="Top Languages" style="width: 230px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacemmeherzi&theme=dark" alt="GitHub Streak" style="width: 300px;" />
 </div>
 
 ---
 
-### 🛠 Tech Stack:
+### 🛠 Tech Stack
 
-#### 🌐 Front-End Development:
-- **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Angular
-- **Testing Libraries:** Jest, Cypress, Jasmine
+#### 🌐 Front-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-I thrive on creating user-friendly interfaces that provide seamless user experiences. My experience with modern front-end technologies enables me to build responsive applications that are both visually appealing and functional.
+#### ⚙️ Back-End
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-#### ⚙️ Back-End Development:
-- **Languages:** Java, Python, PHP, C#
-- **Frameworks:** Spring Boot, Laravel, Symfony, Django, Express.js
-- **Testing Libraries:** Mocha, Chai, JUnit, PyTest
+#### 📱 Hybrid Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
-I enjoy architecting back-end solutions that are robust and scalable, ensuring efficient data handling and smooth interactions with the front end.
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-#### 📱 Hybrid Mobile Development:
-- **Technologies:** Native Java (Android), Flutter, Ionic
-
-I'm passionate about creating mobile applications that provide a rich experience on both iOS and Android platforms. I leverage cross-platform frameworks like Flutter and Ionic to reach a wider audience.
-
-#### 🗄️ Database Management:
-- **Relational Databases:** MySQL, PostgreSQL
-- **Non-Relational Databases:** MongoDB, Firestore
-
-Understanding the importance of data, I am skilled in managing databases to ensure efficient data retrieval and storage for applications.
-
-#### 📦 Tools and Technologies:
-- **Cloud Services:** AWS, Firebase
-- **API Documentation:** Swagger
-- **Development Tools:** GitLab, RapidAPI, Postman
-
-I am proficient in leveraging various tools to enhance my development workflow
+#### 📦 Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 🚀 Currently Learning:
-- Exploring **Advanced DevOps** practices and **Kubernetes** for container orchestration to improve application deployment and management.
-- Building **CI/CD pipelines** with **GitLab** to streamline automated deployment processes and enhance development efficiency.
-- Diving deeper into **microservices architecture** with Spring boot and RabbitMQ
-
----
-### 💖 My Source of Motivation
-I want to give a special shoutout to my amazing girlfriend, **IBTCHIHEL**. Her support and encouragement have been invaluable in my journey as a software engineering student and developer. Whether it's through late-night coding sessions or motivating me to stay smoke-free, she inspires me to keep pushing my limits. Thank you for always believing in me!
+### 🚀 Currently Learning
+- **Kubernetes** for container orchestration
+- **CI/CD pipelines** with GitLab
+- **Microservices architecture** with Spring Boot & RabbitMQ
 
 ---
 
-### 💡 Fun Facts:
-- I am passionate about writing **clean code** and following best practices in **software architecture** to ensure code quality and maintainability. I believe that good architecture leads to easier debugging and future enhancements.
-- I’ve been **smoke-free** for over 100 days, dedicating my time to self-improvement through coding, fitness, and learning new skills. This journey has taught me the importance of resilience and focus.
-- In my spare time, I enjoy playing video games and continuously working on personal development projects to expand my skill set. Gaming not only provides relaxation but also inspires creative problem-solving and strategic thinking.
+### 💖 Motivation
+Special thanks to my amazing girlfriend **Ibtchihel**, whose support inspires me every day. ❤️
 
 ---
+
+### 💡 Fun Facts
+- Smoke-free for **100+ days** 🎉, focusing on coding, fitness, and personal growth.
+- Gaming enthusiast and self-improvement advocate. 🎮
