@@ -35,23 +35,23 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" />
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
-  <img src="https://img.icons8.com/ios-filled/50/3880ff/ionic.png" alt="Ionic" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firestore" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" />
+  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/64/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/64/000000/angularjs.png" alt="Angular" />
+  <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo--v1.png" alt="Java" />
+  <img src="https://img.icons8.com/color/64/000000/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/color/64/000000/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/64/000000/spring-logo.png" alt="Spring Boot" />
+  <img src="https://img.icons8.com/color/64/000000/flutter.png" alt="Flutter" />
+  <img src="https://img.icons8.com/ios-filled/64/3880ff/ionic.png" alt="Ionic" />
+  <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/64/000000/postgreesql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/64/000000/firebase.png" alt="Firestore" />
+  <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" />
+  <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/64/000000/postman-api.png" alt="Postman" />
 </div>
 
 ---
