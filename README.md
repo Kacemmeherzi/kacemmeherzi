@@ -12,11 +12,6 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
 
 ---
 
-### 🔨 Current Project
-- **Weather App**: Real-time weather forecasts using **Ionic** and **WeatherAPI** ([Repository](https://github.com/Kacemmeherzi/WeatherApp))
-
----
-
 ### 📫 Connect with Me
 - **Email**: [kacemmeherzi52@gmail.com](mailto:kacemmeherzi52@gmail.com)
 - **LinkedIn**: [Kacem Meherzi](https://www.linkedin.com/in/kacem-meherzi-305217187/)
