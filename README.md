@@ -43,6 +43,7 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
   <img src="https://img.icons8.com/color/64/000000/python--v1.png" alt="Python" />
   <img src="https://img.icons8.com/color/64/000000/php.png" alt="PHP" />
   <img src="https://img.icons8.com/color/64/000000/spring-logo.png" alt="Spring Boot" />
+  <img src="https://img.icons8.com/color/64/000000/django.png" alt="django" />
   <img src="https://img.icons8.com/color/64/000000/flutter.png" alt="Flutter" />
   <img src="https://img.icons8.com/ios-filled/64/3880ff/ionic.png" alt="Ionic" />
   <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" />
