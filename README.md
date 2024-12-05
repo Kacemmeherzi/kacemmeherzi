@@ -56,13 +56,6 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
 
 ---
 
-### 🚀 Currently Learning
-- **Kubernetes** for container orchestration
-- **CI/CD pipelines** with GitLab
-- **Microservices architecture** with Spring Boot & RabbitMQ
-
----
-
 ### 💖 Motivation
 Special thanks to my amazing girlfriend **Ibtchihel**, whose support inspires me every day. ❤️
 
