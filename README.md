@@ -13,8 +13,7 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
 ---
 
 ### 📫 Connect with Me
-- **Email**: [kacemmeherzi52@gmail.com](mailto:kacemmeherzi52@gmail.com)
-- **LinkedIn**: [Kacem Meherzi](https://www.linkedin.com/in/kacem-meherzi-305217187/)
+- **Email**: [kacemmeherzi52@gmail.com](mailto:kacemmeherzi52@gmail.com)     - **LinkedIn**: [Kacem Meherzi](https://www.linkedin.com/in/kacem-meherzi-305217187/)
 
 ---
 
