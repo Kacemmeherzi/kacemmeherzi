@@ -51,7 +51,7 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
   <img src="https://img.icons8.com/color/64/000000/firebase.png" alt="Firestore" />
   <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" />
   <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/64/000000/postman-api.png" alt="Postman" />
+  <img src="https://img.icons8.com/color/64/000000/postman.png" alt="Postman" />
 </div>
 
 ---
