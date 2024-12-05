@@ -53,9 +53,3 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
 
 ### 💖 Motivation
 Special thanks to my amazing girlfriend **Ibtchihel**, whose support inspires me every day. ❤️
-
----
-
-### 💡 Fun Facts
-- Smoke-free for **100+ days** 🎉, focusing on coding, fitness, and personal growth.
-- Gaming enthusiast and self-improvement advocate. 🎮
