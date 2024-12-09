@@ -54,9 +54,7 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kacemmeherzi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kacemmeherzi&theme=2077" height="180em" />
 </div>
-
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacemmeherzi&" alt="kacemmeherzi" /></p>
-
+  
 ---
 ### 💖 Motivation
 Special thanks to my amazing girlfriend **Ibtchihel**, whose support inspires me every day. ❤️
