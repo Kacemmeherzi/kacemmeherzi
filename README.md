@@ -12,15 +12,6 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kacemmeherzi&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacemmeherzi&layout=compact&theme=dark" alt="Top Languages" style="width: 230px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacemmeherzi&theme=dark" alt="GitHub Streak" style="width: 300px;" />
-</div>
-
----
-
 ### 🛠 Tech Stack
 
 <div align="center">
@@ -46,5 +37,26 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
 
 ---
 
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kacemmeherzi&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacemmeherzi&layout=compact&theme=dark" alt="Top Languages" style="width: 230px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacemmeherzi&theme=dark" alt="GitHub Streak" style="width: 300px;" />
+</div>
+
+---
+
+<div align="center">
+<a href="https://github.com/kacemmeherzi">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kacemmeherzi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kacemmeherzi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kacemmeherzi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kacemmeherzi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kacemmeherzi&theme=2077" height="180em" />
+</div>
+
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacemmeherzi&" alt="kacemmeherzi" /></p>
+
+---
 ### 💖 Motivation
 Special thanks to my amazing girlfriend **Ibtchihel**, whose support inspires me every day. ❤️
