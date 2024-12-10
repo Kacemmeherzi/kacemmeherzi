@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Kacem Meherzi!
+<div align="center"> 👋 Hi, I'm Mohamed Kacem Meherzi!</div>
 
 <div align="center">
   <h2>🎓 Final-Year Software Engineering Student | 💻 Full-Stack Developer</h2>
