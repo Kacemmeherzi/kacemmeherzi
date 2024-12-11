@@ -33,6 +33,7 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
   <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" />
   <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/color/64/000000/kubernetes.png" alt="kubernetes.png" />
+<img src="https://img.icons8.com/color/64/rabbitmq.png" alt="RabbitMQ Icon" />
 </div>
 
 ---
