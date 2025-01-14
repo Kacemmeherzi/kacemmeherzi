@@ -1,18 +1,23 @@
-<div align="center"> <h1>👋 Hi, I'm Mohamed Kacem Meherzi!</h1></div>
-
 <div align="center">
+  <h1>👋 Hi, I'm Mohamed Kacem Meherzi!</h1>
   <h2>🎓 Final-Year Software Engineering Student | 💻 Full-Stack Developer</h2>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kacemmeherzi&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kacemmeherzi&color=blue" alt="Profile Views"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kacemmeherzi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kacemmeherzi&theme=onedark" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 I'm a passionate software engineering student from **Tunis, Tunisia**, focusing on **front-end**, **back-end**, and **hybrid mobile development**. Currently exploring **DevOps** practices to deliver scalable and robust software solutions.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -111,20 +116,24 @@ I'm a passionate software engineering student from **Tunis, Tunisia**, focusing 
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 <div align="center">
-<a href="https://github.com/kacemmeherzi">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kacemmeherzi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kacemmeherzi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kacemmeherzi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kacemmeherzi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kacemmeherzi&theme=2077" height="180em" />
+  <a href="https://github.com/kacemmeherzi">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kacemmeherzi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kacemmeherzi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kacemmeherzi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kacemmeherzi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kacemmeherzi&theme=2077" height="180em" />
+  </a>
 </div>
-  
+
 ---
+
 ### 💖 Motivation
 Special thanks to my amazing girlfriend **Ibtchihel**, whose support inspires me every day. ❤️
